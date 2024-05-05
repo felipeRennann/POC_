@@ -13,4 +13,4 @@ def extrato (conta):
     print("O Saldo é {}".format(conta["saldo"]))
     
 def teste(conta):
-    print("O Saldo é {}".format(conta["saldo"]))   
+   print("O Saldo é {}".format(conta["saldo"]))   
